@@ -1,0 +1,2 @@
+# sqlite_test_sisisa
+Pythonのsqlite3を使ってプログラムを作成。
